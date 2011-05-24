@@ -1,11 +1,19 @@
-var radar_arcs = [{'r':100,'name':'Badass'},{'r':200,'name':'Badass to be'},{'r':300,'name':'Aspirant'},{'r':400,'name':'Kiddo'}];
+var radar_arcs = [
+    {'r':100,'name':'Ri'},
+    {'r':200,'name':'Ha'},
+    {'r':300,'name':'Shu'},
+    {'r':400,'name':'Ku'}
+];
+
 var radar_quadrants = [];
 var radar_data = [];
 
 function len(object) {
-    var i=0;
+    var i = 0;
     for(var k in object) {
-        i++;
+        if(object.hasOwnProperty(k)) {
+            i++;
+        }
     }
     return i;
 }
@@ -27,4 +35,3 @@ for(var quadrant in data) {
     quad++;
 }
 
-var radar_title = "Carlos Villela, May 2011";
