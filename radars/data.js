@@ -1,28 +1,28 @@
 title = 'Your Name, Month Year';
 
 data = {
-    'Quadrant': {
+    'First Quadrant': {
         'Very High Skill': 4,
         'High Skill': 3,
         'Medium Skill': 2,
         'Low Skill': 1,
     },
 
-    'Quadrant': {
+    'Second Quadrant': {
         'Very High Skill': 4,
         'High Skill': 3,
         'Medium Skill': 2,
         'Low Skill': 1,
     },
 
-    'Quadrant': {
+    'Third Quadrant': {
         'Very High Skill': 4,
         'High Skill': 3,
         'Medium Skill': 2,
         'Low Skill': 1,
     },
 
-    'Quadrant': {
+    'Fourth Quadrant': {
         'Very High Skill': 4,
         'High Skill': 3,
         'Medium Skill': 2,
