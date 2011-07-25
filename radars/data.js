@@ -1,32 +1,38 @@
-title = 'Your Name, Month Year';
+title = 'Thiago Nunes, 2011';
 
 data = {
-    'First Quadrant': {
-        'Very High Skill': 4,
-        'High Skill': 3,
-        'Medium Skill': 2,
-        'Low Skill': 1,
+    'Languages': {
+        'Java': 4,
+        'Javascript': 2,
+        'Ruby': 2,
+        'Awk': 1,
+        'Haskell': 1,
     },
 
-    'Second Quadrant': {
-        'Very High Skill': 4,
-        'High Skill': 3,
-        'Medium Skill': 2,
-        'Low Skill': 1,
+    'Tools': {
+        'Eclipse': 4,
+        'Vim': 2,
+        'Maven': 2,
+        'Ivy': 2,
+        'IntelliJ': 1,
+        'Svn': 3,
+        'Git': 2,
+        'AWS': 3,
+        'Rake': 1,
     },
 
-    'Third Quadrant': {
-        'Very High Skill': 4,
-        'High Skill': 3,
-        'Medium Skill': 2,
-        'Low Skill': 1,
+    'Techniques': {
+        'TDD': 4,
+        'BDD': 3,
+        'OOD': 4,
+        'DDD': 1,
+        'Refactoring': 3,
+        'Design Patterns': 3,
     },
 
-    'Fourth Quadrant': {
-        'Very High Skill': 4,
-        'High Skill': 3,
-        'Medium Skill': 2,
-        'Low Skill': 1,
+    'Platforms': {
+        'Mac OS': 3,
+        'Linux': 2,
     },
 
 };

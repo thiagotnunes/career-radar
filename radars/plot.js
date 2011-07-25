@@ -1,8 +1,8 @@
 var radar_arcs = [
-    { 'r':100, 'name': 'Ri' },
-    { 'r':200, 'name': 'Ha' },
-    { 'r':300, 'name': 'Shu' },
-    { 'r':400, 'name': 'Ku' }
+    { 'r':100, 'name': 'I know this very well in matter of fact' },
+    { 'r':200, 'name': 'Dude I know this' },
+    { 'r':300, 'name': 'Kiddo' },
+    { 'r':400, 'name': 'Maggot' }
 ];
 
 var radar_quadrants = [];
