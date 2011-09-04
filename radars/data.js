@@ -5,8 +5,9 @@ data = {
         'Java': 4,
         'Javascript': 2,
         'Ruby': 2,
-        'Awk': 1,
+        'Awk': 2,
         'Haskell': 1,
+        'Clojure': 1,
     },
 
     'Tools': {
@@ -19,6 +20,8 @@ data = {
         'Git': 2,
         'AWS': 3,
         'Rake': 1,
+        'Grep': 1,
+        'NodeJs': 1
     },
 
     'Techniques': {
