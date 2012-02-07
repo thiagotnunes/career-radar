@@ -3,7 +3,7 @@ title = 'Thiago Nunes, 2011';
 data = {
     'Languages': {
         'Java': 4,
-        'Javascript': 2,
+        'Javascript': 3,
         'Ruby': 2,
         'Awk': 2,
         'Haskell': 1,
@@ -17,11 +17,17 @@ data = {
         'Ivy': 2,
         'IntelliJ': 1,
         'Svn': 3,
-        'Git': 2,
+        'Git': 3,
         'AWS': 3,
         'Rake': 1,
+        'Rails': 2,
+        'Sinatra': 1,
         'Grep': 1,
-        'NodeJs': 1
+        'NodeJs': 1,
+        'CoffeeScript': 2,
+        'SASS': 2,
+        'HTML 5': 1,
+        'CSS 3': 1
     },
 
     'Techniques': {
