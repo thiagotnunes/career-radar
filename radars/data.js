@@ -1,10 +1,10 @@
-title = 'Thiago Nunes, 2011';
+title = 'Thiago Nunes, 2012';
 
 data = {
     'Languages': {
         'Java': 4,
         'Javascript': 3,
-        'Ruby': 2,
+        'Ruby': 3,
         'Awk': 2,
         'Haskell': 1,
         'Clojure': 1,
@@ -12,31 +12,37 @@ data = {
 
     'Tools': {
         'Eclipse': 4,
-        'Vim': 2,
-        'Maven': 2,
-        'Ivy': 2,
-        'IntelliJ': 1,
+        'IntelliJ': 3,
+        'Vim': 3,
         'Svn': 3,
         'Git': 3,
         'AWS': 3,
-        'Rake': 1,
-        'Rails': 2,
-        'Sinatra': 1,
-        'Grep': 1,
+        'Rails': 3,
+        'Sinatra': 3,
+        'Cucumber': 3,
+        'RSpec': 3,
         'NodeJs': 1,
-        'CoffeeScript': 2,
-        'SASS': 2,
-        'HTML 5': 1,
-        'CSS 3': 1
+        'AngularJS': 2,
+        'KnockoutJS': 1,
+        'BackboneJS': 1,
+        'PhantomJS': 1,
+        'Jasmine': 3,
+        'HTML 5': 2,
+        'CSS 3': 2,
+        'Bootstrap': 2,
+        'MongoDB': 1,
+        'Puppet': 1,
+        'Chef': 1
     },
 
     'Techniques': {
         'TDD': 4,
-        'BDD': 3,
+        'BDD': 4,
         'OOD': 4,
-        'DDD': 1,
-        'Refactoring': 3,
-        'Design Patterns': 3,
+        'DDD': 2,
+        'Refactoring': 4,
+        'Design Patterns': 4,
+        'DevOps': 2
     },
 
     'Platforms': {
